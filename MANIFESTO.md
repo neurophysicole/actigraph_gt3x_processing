@@ -38,3 +38,8 @@ All outcome measures are calculated from data points included as _valid_. _Valid
  - 4 valid days were required for participants to be considered _valid_
  - Counts must be greater than 3208 to be considered moderate-to-vigorous activity (this setting is embedded in the `calculate_METs_MVPA` module
 
+## Credit
+
+Code for this project was borrowed from the following public repositories:
+ - [agcounts](https://github.com/actigraph/agcounts)
+ - [pygt3x](https://github.com/actigraph/pygt3x)
